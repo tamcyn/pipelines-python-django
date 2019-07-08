@@ -1,4 +1,5 @@
 # Sample Python app for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/maisteringbv/MBV-NL-VALUE-NAV/_apis/build/status/tamcyn.pipelines-python-django?branchName=master)](https://dev.azure.com/maisteringbv/MBV-NL-VALUE-NAV/_build/latest?definitionId=268&branchName=master)
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
